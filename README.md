@@ -1,5 +1,3 @@
-# Business Intelligence Analyst
-
 **Address:** Dartford DA1 2BQ, London  
 **Phone:** +447824592417  
 **Email:** [arjunkhatiwadaarjun@gmail.com](mailto:arjunkhatiwadaarjun@gmail.com)  
