@@ -1,4 +1,4 @@
-![Profile Picture](images/profile_pic.jpg)
+#![Profile Picture](images/profile_pic.jpg)          #code to show pictures
 **Address:** Dartford DA1 2BQ, London  
 **Phone:** +447824592417  
 **Email:** [arjunkhatiwadaarjun@gmail.com](mailto:arjunkhatiwadaarjun@gmail.com)  
