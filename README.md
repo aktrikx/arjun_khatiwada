@@ -9,7 +9,7 @@
 
 A business intelligence analyst who is extremely motivated and has 7+ years of professional experience in the field of retails and Education and a data science enthusiast who is interested in real life Data Science related Projects. 
 
-## Skills
+## Skills:
 
 - Business Intelligence Tools
 - Machine Learning
@@ -18,7 +18,7 @@ A business intelligence analyst who is extremely motivated and has 7+ years of p
 - SQL
 - Python
 - Data Analysis
-- AWS EC2, Lambda
+- AWS
 - Alibaba Cloud
 - GitHub
 - Mathematics
