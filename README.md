@@ -1,4 +1,4 @@
-# Arjun Khatiwada
+# Business Intelligence Analyst
 
 **Address:** Dartford DA1 2BQ, London  
 **Phone:** +447824592417  
