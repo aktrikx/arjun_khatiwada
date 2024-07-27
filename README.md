@@ -7,7 +7,39 @@
 
 ## Professional Summary
 
-A business intelligence analyst who is extremely motivated and has 7+ years of professional experience, a data analyst with expertise in business intelligence, and a data science enthusiast.
+A business intelligence analyst who is extremely motivated and has 7+ years of professional experience in the field of retails and Education and a data science enthusiast who is interested in real life Data Science related Projects. 
+
+## Skills
+
+- Business Intelligence Tools
+- Machine Learning
+- Excel, Google Sheet
+- Jupyter notebook, Google Collab
+- SQL
+- Python
+- Data Analysis
+- AWS EC2, Lambda
+- Alibaba Cloud
+- GitHub
+- Mathematics
+  
+## Education
+
+- **Master of Science in Data Science** – In Progress (2023 to 2024)  
+  Teesside University London, UK
+- **Master of Science In Mathematics** – 2013 to 2015  
+  Tribhuvan University, Kathmandu, Nepal
+- **Bachelor of Science In Mathematics** – 2009 to 2012  
+  North Bengal University, Darjeeling, India
+
+## Certifications
+
+- Python for Data Science and Machine Learning Bootcamp (Udemy, 2023)
+- SQL for Data Science (Coursera, 2022)
+- Python Data Structure (Coursera, 2022)
+- Python classes and inheritance (Coursera, 2020)
+- Fundamentals of Reinforcement Learning (Coursera, 2020)
+- Data Science with Python (Broadway Infosys, 2018)
 
 ## Experiences
 
@@ -60,35 +92,3 @@ A business intelligence analyst who is extremely motivated and has 7+ years of p
 - Taught Mathematics up to Grade X and served as the Class Teacher of Grade X.
 - Provided student mentoring, classroom management, parent communication, and academic counseling.
 - Improved the mechanism for supervising pupils as a class instructor by holding one-on-one sessions with parents.
-
-## Skills
-
-- Business Intelligence Tools
-- Machine Learning
-- Excel, Google Sheet
-- Jupyter notebook, Google Collab
-- SQL
-- Python
-- Data Analysis
-- AWS EC2, Lambda
-- Alibaba Cloud
-- GitHub
-- Mathematics
-
-## Education
-
-- **Master of Science in Data Science** – In Progress (2023 to 2024)  
-  Teesside University London, UK
-- **Master of Science In Mathematics** – 2013 to 2015  
-  Tribhuvan University, Kathmandu, Nepal
-- **Bachelor of Science In Mathematics** – 2009 to 2012  
-  North Bengal University, Darjeeling, India
-
-## Certifications
-
-- Python for Data Science and Machine Learning Bootcamp (Udemy, 2023)
-- SQL for Data Science (Coursera, 2022)
-- Python Data Structure (Coursera, 2022)
-- Python classes and inheritance (Coursera, 2020)
-- Fundamentals of Reinforcement Learning (Coursera, 2020)
-- Data Science with Python (Broadway Infosys, 2018)
