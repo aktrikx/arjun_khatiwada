@@ -25,7 +25,7 @@ A business intelligence analyst who is extremely motivated and has 7+ years of p
   
 ## Education
 
-- **Master of Science in Data Science** – In Progress (2023 to 2024)  
+- **Master of Science in Data Science** – In Progress (Nov 2023 to Nov 2024)  
   Teesside University London, UK
 - **Master of Science In Mathematics** – 2013 to 2015  
   Tribhuvan University, Kathmandu, Nepal
@@ -34,6 +34,7 @@ A business intelligence analyst who is extremely motivated and has 7+ years of p
 
 ## Certifications
 
+- AWS for Data Science & Data Analytics (Data Science Infinity, 2024)
 - Python for Data Science and Machine Learning Bootcamp (Udemy, 2023)
 - SQL for Data Science (Coursera, 2022)
 - Python Data Structure (Coursera, 2022)
