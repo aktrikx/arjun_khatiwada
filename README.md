@@ -80,4 +80,4 @@ A business intelligence analyst who is extremely motivated and has 7+ years of p
 
 ## Projects
 
-[View My Projects](https://aktrikx.github.io/arjun_khatiwada/Projects.md)
+[View My Projects](Projects.md)
