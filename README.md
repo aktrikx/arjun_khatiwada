@@ -80,4 +80,4 @@ A business intelligence analyst who is extremely motivated and has 7+ years of p
 
 ## Projects
 
-[View My Projects](Projects.md)
+[View My Projects](projects.md)
