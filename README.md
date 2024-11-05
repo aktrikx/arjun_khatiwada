@@ -77,4 +77,7 @@ A business intelligence analyst who is extremely motivated and has 7+ years of p
 - Encouraged and assisted students to compete in the Himalayan Computational Linguistic Olympiad (Hlon), where two students earned honorable mentions and one student won a gold medal for the first time for the school.
 - Automated the exam system, reducing the time required of each faculty member to produce the marksheet and update results from around 20 hours to 6 hours.
 - Minimized manual labor involved in developing statistical procedures for publishing a comparative analysis of results using SPSS by automating the process with Python and Excel.
-[See My Projects](Projects.md)
+
+## Projects
+
+[View My Projects](projects.md)
