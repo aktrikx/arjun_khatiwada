@@ -32,5 +32,5 @@
 
 ---
 
-For more detailed projects, visit my [GitHub Portfolio](https://github.com/aktrikx).
+Back to Resume, visit my [GitHub Portfolio](README.md).
 
