@@ -1,3 +1,5 @@
+
+
 # Arjun Khatiwada
 
 **Address:** Dartford, London, UK  
@@ -7,9 +9,15 @@
 **Medium:** [https://medium.com/@arjunkhatiwadaarjun](https://medium.com/@arjunkhatiwadaarjun)  
 **LinkedIn:** [www.linkedin.com/in/arjun-khatiwada-201847185](http://www.linkedin.com/in/arjun-khatiwada-201847185)
 
+
+
+
 ## Professional Summary
 
 A business intelligence analyst who is extremely motivated with 7+ years of professional experience in the field of retail and education, a data science enthusiast interested in real-life data science-related projects.
+
+
+
 
 ## Skills
 
@@ -17,6 +25,9 @@ A business intelligence analyst who is extremely motivated with 7+ years of prof
 - Python, SQL, Excel, Machine Learning, Data Analysis
 - AWS, Alibaba Cloud, GitHub
 - Analytical Thinking, Meticulous Attention To Detail, Coordination, Detailed Reporting, Prioritization, Understanding Context, Clear Communications with teams or stakeholders, Learning Agility, Embracing Changes, Ownership
+
+
+
 
 ## Education
 
@@ -30,6 +41,9 @@ A business intelligence analyst who is extremely motivated with 7+ years of prof
 - **Bachelor of Science In Mathematics (2nd Division)** – 2009 to 2012  
   North Bengal University, Darjeeling, India
 
+
+
+
 ## Certifications
 
 - AWS for Data Science & Data Analytics (Data Science Infinity, 2024)
@@ -39,6 +53,9 @@ A business intelligence analyst who is extremely motivated with 7+ years of prof
 - Python Classes and Inheritance (Coursera, 2020)
 - Fundamentals of Reinforcement Learning (Coursera, 2020)
 - Data Science with Python (Broadway Infosys, 2018)
+
+
+
 
 ## Experiences
 
@@ -79,6 +96,9 @@ A business intelligence analyst who is extremely motivated with 7+ years of prof
 - Automated the exam system, reducing time required for faculty members to produce and update marksheets by 70%.
 - Minimized manual labor by automating statistical procedures using Python and Excel, reducing time by 50%.
 
+
+
+
 ## Competitions | Hackathons
 
 - **Kaggle:**  
@@ -90,6 +110,9 @@ A business intelligence analyst who is extremely motivated with 7+ years of prof
 
 - **AnalyticsVidhya:**  
   Predicting Number of Food Orders
+
+
+
 
 ## Projects
 
@@ -104,6 +127,9 @@ A business intelligence analyst who is extremely motivated with 7+ years of prof
 - Nepali Word Cloud Generator
 - Demand Forecasting - SARIMA Model
 - E-Commerce Customer Retention Strategies with Reliable Churn Prediction ML Models
+
+
+
 
 ## Writings | Reports
 
@@ -120,6 +146,8 @@ A business intelligence analyst who is extremely motivated with 7+ years of prof
 
 
 - HOME VISIT REPORT  
+
+
 
 
 
