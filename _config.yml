@@ -18,9 +18,9 @@ logo: images/profile_pic.jpg
 show_downloads: false
 # remote_theme: pages-themes/time-machine@v0.2.0
 # css: assets/css/style.css
-markdown: kramdown
-theme: jekyll-theme-minimal # or whichever theme you are using
-header: false
+# markdown: kramdown
+# theme: jekyll-theme-minimal # or whichever theme you are using
+# header: false
 
 theme: jekyll-theme-minimal # or your chosen theme
 remote_theme: pages-themes/time-machine@v0.2.0 # or your chosen theme
