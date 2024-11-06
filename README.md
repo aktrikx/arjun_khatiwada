@@ -86,12 +86,4 @@ A business intelligence analyst who is extremely motivated with **7+ years** of 
 
 ## Explore My Projects 🚀
 
-Check out some of my exciting **Time Machine Projects** below that showcase my skills and innovations in the data science universe.
-
----
-
-## Let's travel through data! 🌐
-
----
-
 ### Check out my detailed projects and contributions: [Projects.md](Projects.md)
