@@ -12,16 +12,16 @@
 
 ## Professional Summary 🧑‍💻
 
-A business intelligence analyst who is extremely motivated with **7+ years** of professional experience in the field of retail and education, and a data science enthusiast interested in real-life data science-related projects.
+A business intelligence analyst who is extremely motivated with **7+ years** of professional experience in the field of retail and education, and a data science enthusiast interested in real-life data science based projects.
 
 ---
 
 ## Skills 🔧
 
-- **Business Intelligence Tools, Google Sheets, Jupyter Notebook, Google Colab**
-- **Programming:** Python, SQL, Excel, Machine Learning, Data Analysis
-- **Cloud & Platforms:** AWS, Alibaba Cloud, GitHub
-- **Soft Skills:** Analytical Thinking, Attention to Detail, Coordination, Reporting, Prioritization, Clear Communication, Learning Agility, Ownership
+- Business Intelligence Tools, Google Sheets, Jupyter Notebook, Google Colab
+- Python, SQL, Excel, Machine Learning, Data Analysis
+- AWS, Alibaba Cloud, GitHub
+- Analytical Thinking, Attention to Detail, Coordination, Reporting, Prioritization, Clear Communication, Learning Agility, Ownership
 
 ---
 
