@@ -11,9 +11,12 @@ title: "Arjun Khatiwada"
 # description: "Business Intelligence Analyst | Data Scientist"
 # url: "https://yourdomain.com" # Replace this with your actual domain if needed
 baseurl: "/"  # Make sure the baseurl is set to the root if you're using GitHub Pages
-remote_theme: pages-themes/time-machine@v0.2.0  # This pulls the Time Machine theme
+
+# remote_theme: pages-themes/time-machine@v0.2.0  # This pulls the Time Machine theme
+remote_theme: pages-themes/merlot@v0.2.0
 plugins:
   - jekyll-remote-theme
+  
 
 # Example of disabling certain sections
 show_header: false
