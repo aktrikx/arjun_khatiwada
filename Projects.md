@@ -55,7 +55,7 @@ Developed a SARIMA model for demand forecasting, reducing average forecast error
 
 ---
 
-## Nepali Word Cloud Generator 🗣️
+## Nepali Word Cloud Generator 🇳🇵💭
 Created a Python tool to generate a word cloud from Nepali text inputs, providing visual insights into word frequency within a dataset.
 
 
