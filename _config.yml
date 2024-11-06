@@ -21,6 +21,7 @@ plugins:
   
 
 # Example of disabling certain sections
+show_footer: false
 show_header: false
 show_social_links: false
 show_contact_info: false
