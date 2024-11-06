@@ -1,7 +1,5 @@
 
 
-# Arjun Khatiwada
-
 **Address:** Dartford, London, UK  
 **Phone:** +447824592417  
 **Email:** [arjunkhatiwadaarjun@gmail.com](mailto:arjunkhatiwadaarjun@gmail.com)  
