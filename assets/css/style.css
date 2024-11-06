@@ -1,8 +1,8 @@
 /* assets/css/style.css */
 
-/* Background and overall body styling */
+/* Overall page background */
 body {
-    background-color: #f9f9fc; /* Light grey-blue for subtle contrast */
+    background-color: #f3f5f9; /* Light neutral background */
     font-family: Arial, sans-serif;
     line-height: 1.6;
     color: #333;
@@ -10,31 +10,27 @@ body {
     padding: 0;
 }
 
-/* Center content with a max width and add padding */
-.main-content, .container, body > .container {
-    max-width: 900px; /* Adjust as needed */
-    margin: 40px auto; /* Adds space above content */
+/* Centered main content with shadow and padding */
+.main-content, .container, .content-wrapper {
+    max-width: 900px;
+    margin: 40px auto;
     padding: 20px;
-    background-color: #ffffff; /* White background for content */
-    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1); /* Subtle shadow */
-    border-radius: 8px; /* Rounded corners */
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
 }
 
-/* Style headings for a clean and professional look */
+/* General typography */
 h1, h2, h3, h4, h5, h6 {
-    color: #2c3e50; /* Dark slate for headers */
+    color: #2c3e50;
     text-align: center;
+    font-weight: 600;
     margin-top: 0;
 }
 
-/* Style paragraphs */
-p {
-    margin: 1em 0;
-}
-
-/* Style links */
+/* Standard link styling */
 a {
-    color: #007acc; /* Blue for links */
+    color: #007acc;
     text-decoration: none;
     font-weight: bold;
 }
@@ -43,15 +39,15 @@ a:hover {
     text-decoration: underline;
 }
 
-/* Profile picture adjustments */
+/* Profile picture styling */
 img {
     display: block;
     margin: 20px auto;
-    border-radius: 50%; /* Circular profile image */
-    max-width: 150px; /* Adjust as needed */
+    border-radius: 50%;
+    max-width: 150px;
 }
 
-/* Hide "View on GitHub" link */
+/* Hide unnecessary footer and GitHub elements */
 .github-link, .gh-badge, .github-repo, footer, .site-footer, .footer {
     display: none !important;
 }
