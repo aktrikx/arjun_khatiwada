@@ -8,12 +8,14 @@
 # # github_username: "aktrikx"   # Optional: Your GitHub username
 
 title: "Arjun Khatiwada"
-description: "Business Intelligence Analyst | Data Scientist"
+# description: "Business Intelligence Analyst | Data Scientist"
 # url: "https://yourdomain.com" # Replace this with your actual domain if needed
 baseurl: "/"  # Make sure the baseurl is set to the root if you're using GitHub Pages
 remote_theme: pages-themes/time-machine@v0.2.0  # This pulls the Time Machine theme
 plugins:
   - jekyll-remote-theme
 
-# Disable default header content
+# Example of disabling certain sections
 show_header: false
+show_social_links: false
+show_contact_info: false
