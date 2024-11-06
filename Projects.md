@@ -3,6 +3,12 @@
 ## Projects
 
 
+
+
+
+
+
+
 ## End to End Machine Learning Project on AWS  
   This project is an end-to-end machine learning application designed to predict customer churn for e-commerce platforms, utilizing Python 
   and Flask. The workflow includes acquiring and preprocessing a dataset from Kaggle, developing and evaluating machine learning models, and 
@@ -12,6 +18,15 @@
   
   
   visit project [End to End Machine Learning Project on AWS](https://github.com/aktrikx/e2eml_project)
+
+
+
+
+
+
+
+
+
 
 
 
@@ -35,6 +50,14 @@
 
 
 
+
+
+
+
+
+
+
+
 ## Amazon Job Vacancy Alert
   
   This project is a Python script that automatically checks for job vacancies on the Amazon Warehouse jobs website. If a job matching your       
@@ -47,6 +70,13 @@
 
 
 
+
+
+
+
+
+
+
 ## Coronavirus Case Study
   This project is a global epidemiological analysis focused on COVID-19 data. The primary objective is to analyze and summarize the COVID-19 
   case and death statistics across 213 countries from December 2019 to December 2020. The project aimed to identify key trends, such as peak 
@@ -55,6 +85,16 @@
   severity and progression of COVID-19 on a global scale.
   
   visit project [Coronavirus Case Study](https://github.com/aktrikx/DSprojects/blob/main/Coronavirus__Case_Study.ipynb)
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -74,6 +114,15 @@
 
 
 
+
+
+
+
+
+
+
+
+
 ## Nepali News Scraping
   This project involves web scraping news articles from the Nepal News website (https://www.nepalnews.com/) to gather information on recent 
   news headlines. The objective was to extract and compile news headlines along with their corresponding URLs into a structured format. 
@@ -87,9 +136,26 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
 ## Demand Forecasting (SARIMA Model) 
 This demand forecasting project aimed to optimize workforce planning during major sales campaigns, where accurate demand predictions were essential for smooth operations. We implemented a Seasonal Autoregressive Integrated Moving Average (SARIMA) model, which reduced average forecasting errors by 12% compared to the company’s historical model. This improvement enabled more precise workforce scheduling to handle surges in order volume during peak periods. Additionally, we introduced manual adjustments for post-holiday delivery backlogs, allowing for flexibility in handling predictable demand spikes. This combination of advanced modeling and practical adjustments ensured optimal staffing, timely deliveries, and enhanced operational efficiency, ultimately aligning resources with real demand patterns and reducing costs during critical high-demand periods.
   
+
+
+
+
+
+
+
 
 
 
