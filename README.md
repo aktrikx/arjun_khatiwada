@@ -1,6 +1,4 @@
-## Arjun Khatiwada
-
-## Contact Information
+# Arjun Khatiwada
 
 **Address:** Dartford, London, UK  
 **Phone:** +447824592417  
@@ -44,7 +42,7 @@ Like a time traveler on an endless mission, I’ve gathered knowledge and experi
 - **Python for Data Science and Machine Learning Bootcamp** (Udemy, 2023)
 - **SQL for Data Science** (Coursera, 2022)
 - **Python Data Structure** (Coursera, 2022)
-- **Reinforcement Learning & More...** (Various)
+- **Reinforcement Learning**(Coursera, 2022)
 
 ---
 
