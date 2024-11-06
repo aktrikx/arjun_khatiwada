@@ -89,7 +89,7 @@ A business intelligence analyst who is extremely motivated with 7+ years of prof
 
 ---
 
-## Competitions | Hackathons
+## Competitions or Hackathons
 
 - **Kaggle:**  
   Titanic - Machine Learning from Disaster  
@@ -103,12 +103,12 @@ A business intelligence analyst who is extremely motivated with 7+ years of prof
 
 ---
 
-## Writings | Reports
+## Writings or Reports
 
-- REINFORCEMENT LEARNING IN TRAFFIC SIGNAL CONTROL
-- WHAT DRIVES MATHEMATICS IN THE 21ST CENTURY?
-- COMPARATIVE ANALYSIS OF FIRST TERM RESULT WITH SPSS 2078
-- REPORT ON AUDIO/VIDEO PUBLICATION
-- HOME VISIT REPORT
+-  **REINFORCEMENT LEARNING IN TRAFFIC SIGNAL CONTROL
+-  **WHAT DRIVES MATHEMATICS IN THE 21ST CENTURY?
+-  **COMPARATIVE ANALYSIS OF FIRST TERM RESULT WITH SPSS 2078
+-  **REPORT ON AUDIO/VIDEO PUBLICATION
+-  **HOME VISIT REPORT
 
-View Projects: [View Projects](Projects.md)
+[View Projects](Projects.md)
