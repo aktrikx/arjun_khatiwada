@@ -1,8 +1,8 @@
 
-# Projects
+## Projects
 
 
-  ## End to End Machine Learning Project on AWS  
+## End to End Machine Learning Project on AWS  
   This project is an end-to-end machine learning application designed to predict customer churn for e-commerce platforms, utilizing Python 
   and Flask. The workflow includes acquiring and preprocessing a dataset from Kaggle, developing and evaluating machine learning models, and 
   creating a Flask web application for user interaction. The application is deployed and hosted on an AWS EC2 instance, with WinSCP used for 
@@ -15,7 +15,7 @@
 
 
 
-  ## Book Price Prediction
+## Book Price Prediction
   The so-called paradoxes of an author, to which a reader takes exception, often exist not in the author's book at all, but rather in the 
   reader's head. - Friedrich Nietzsche Books are open doors to the unimagined worlds which is unique to every person. It is more than just a 
   hobby for many. There are many among us who prefer to spend more time with books than anything else. Here we explore a big database of 
@@ -34,7 +34,7 @@
 
 
 
-  ## Amazon Job Vacancy Alert
+## Amazon Job Vacancy Alert
   
   This project is a Python script that automatically checks for job vacancies on the Amazon Warehouse jobs website. If a job matching your       
   specified location (e.g., "Remote location") is found, the script sends an alert email to the user. It also handles pop-ups, such as       
@@ -46,7 +46,7 @@
 
 
 
-  ## Coronavirus Case Study
+## Coronavirus Case Study
   This project is a global epidemiological analysis focused on COVID-19 data. The primary objective is to analyze and summarize the COVID-19 
   case and death statistics across 213 countries from December 2019 to December 2020. The project aimed to identify key trends, such as peak 
   periods for cases and deaths, and to examine the distribution of the pandemic's impact across different countries and continents. By 
@@ -58,7 +58,7 @@
 
 
 
-  ## Food Order Prediction
+## Food Order Prediction
   Built a machine learning model to predict the number of food orders for a restaurant chain using time series data.
   The client, a multi-city meal delivery company, operates numerous fulfillment centers responsible for dispatching meal orders to 
   customers. To enhance operational efficiency, the client seeks a demand forecasting solution to help these centers plan for upcoming 
@@ -73,7 +73,7 @@
 
 
 
-  ## Nepali News Scraping
+## Nepali News Scraping
   This project involves web scraping news articles from the Nepal News website (https://www.nepalnews.com/) to gather information on recent 
   news headlines. The objective was to extract and compile news headlines along with their corresponding URLs into a structured format. 
   Using a web scraping tool or library, such as BeautifulSoup in Python, the project captures the news headlines and their links from the 
@@ -86,14 +86,14 @@
 
 
 
-  ## Demand Forecasting (SARIMA Model) 
+## Demand Forecasting (SARIMA Model) 
 This demand forecasting project aimed to optimize workforce planning during major sales campaigns, where accurate demand predictions were essential for smooth operations. We implemented a Seasonal Autoregressive Integrated Moving Average (SARIMA) model, which reduced average forecasting errors by 12% compared to the company’s historical model. This improvement enabled more precise workforce scheduling to handle surges in order volume during peak periods. Additionally, we introduced manual adjustments for post-holiday delivery backlogs, allowing for flexibility in handling predictable demand spikes. This combination of advanced modeling and practical adjustments ensured optimal staffing, timely deliveries, and enhanced operational efficiency, ultimately aligning resources with real demand patterns and reducing costs during critical high-demand periods.
   
 
 
 
 
-  ## Nepali Word Cloud Generator
+## Nepali Word Cloud Generator
   Developed a Python tool to generate a word cloud from Nepali text inputs, visualizing the most frequent words.
 
 
