@@ -50,7 +50,7 @@ Like a time traveler on an endless mission, I’ve gathered knowledge and experi
 
 ## Experience 🌍
 
-### Business Intelligence Analyst  
+**Business Intelligence Analyst**  
 **Daraz (Alibaba Venture), Kathmandu, Nepal**  
 *July 2022 to November 2023*
 
@@ -61,14 +61,14 @@ Like a time traveler on an endless mission, I’ve gathered knowledge and experi
 - Developed and utilized user-defined functions in SQL on the Alibaba Cloud platform MaxCompute, improving long SQL query development and performance.  
 - Integrated Jupyter Notebook with MaxCompute via API, reducing data preparation and model development time significantly.
 
-### Data DevOps Engineer (Remote, Part-Time Contract)  
+**Data DevOps Engineer (Remote, Part-Time Contract)**  
 **Turing, USA**  
 *January 2023 to April 2023*
 
 - Data dump from different data sources through API integration.  
 - Designed the dashboard, including KPIs from different sources like Salesforce, Airtable, Stripe, and Zapper.
 
-### Data Analyst (Internship)  
+**Data Analyst (Internship)**  
 **Braindigit, Kathmandu, Nepal**  
 *December 2021 to June 2022*
 
@@ -77,7 +77,7 @@ Like a time traveler on an endless mission, I’ve gathered knowledge and experi
 - Built a Python algorithm to extract data from a PDF file and convert it to an Excel spreadsheet, saving over 80% of the time.  
 - Enhanced SQL skills by tackling real-world data analysis problems.
 
-### Head of Exam Department | R&D | Mathematics Lecturer  
+**Head of Exam Department | R&D | Mathematics Lecturer**  
 **Sifal Secondary School, Kathmandu, Nepal**  
 *June 2017 to December 2021*
 
