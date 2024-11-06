@@ -56,3 +56,7 @@ ul {
 ul li {
     margin-bottom: 10px;
 }
+/* Hide footer credits and GitHub Pages attribution */
+footer, .site-footer, .footer {
+    display: none !important;
+}
