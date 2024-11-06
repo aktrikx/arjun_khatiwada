@@ -87,13 +87,7 @@
 
 
   ## Demand Forecasting (SARIMA Model) 
-  This demand forecasting project aimed to optimize workforce planning during major sales campaigns, where accurate demand predictions were 
-  essential for smooth operations. We implemented a Seasonal Autoregressive Integrated Moving Average (SARIMA) model, which reduced average   
-  forecasting errors by 12% compared to the company’s historical model. This improvement enabled more precise workforce scheduling to handle     
-  surges in order volume during peak periods. Additionally, we introduced manual adjustments for post-holiday delivery backlogs, allowing 
-  for flexibility in handling predictable demand spikes. This combination of advanced modeling and practical adjustments ensured optimal       
-  staffing, timely deliveries, and enhanced operational efficiency, ultimately aligning resources with real demand patterns and reducing     
-  costs during critical high-demand periods.
+This demand forecasting project aimed to optimize workforce planning during major sales campaigns, where accurate demand predictions were essential for smooth operations. We implemented a Seasonal Autoregressive Integrated Moving Average (SARIMA) model, which reduced average forecasting errors by 12% compared to the company’s historical model. This improvement enabled more precise workforce scheduling to handle surges in order volume during peak periods. Additionally, we introduced manual adjustments for post-holiday delivery backlogs, allowing for flexibility in handling predictable demand spikes. This combination of advanced modeling and practical adjustments ensured optimal staffing, timely deliveries, and enhanced operational efficiency, ultimately aligning resources with real demand patterns and reducing costs during critical high-demand periods.
   
 
 
