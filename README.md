@@ -104,4 +104,6 @@ Business Intelligence Analyst with 7+ years of experience in retail and educatio
 - **Report on Audio/Video Publication**
 - **Home Visit Report**
 
+---
+
 [View Projects](Projects.md)
