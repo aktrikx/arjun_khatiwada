@@ -9,106 +9,99 @@
 
 ## Professional Summary
 
-A business intelligence analyst who is extremely motivated with 7+ years of professional experience in the field of retail and education, a data science enthusiast interested in real-life data science-related projects.
+Business Intelligence Analyst with 7+ years of experience in retail and education, passionate about data science and dedicated to applying analytics to solve real-world challenges.
 
 ---
 
 ## Skills
 
-- Business Intelligence Tools, Google Sheet, Jupyter notebook, Google Collab
-- Python, SQL, Excel, Machine Learning, Data Analysis
-- AWS, Alibaba Cloud, GitHub
-- Analytical Thinking, Meticulous Attention To Detail, Coordination, Detailed Reporting, Prioritization, Understanding Context, Clear Communications with teams or stakeholders, Learning Agility, Embracing Changes, Ownership
+- **Tools:** Business Intelligence Tools, Google Sheets, Jupyter Notebook, Google Colab
+- **Technologies:** Python, SQL, Excel, Machine Learning, Data Analysis
+- **Cloud & Version Control:** AWS, Alibaba Cloud, GitHub
+- **Soft Skills:** Analytical Thinking, Attention to Detail, Coordination, Reporting, Prioritization, Communication, Learning Agility, Embracing Change, Ownership
 
 ---
 
 ## Education
 
-- **Master of Science In Data Science** (Result yet to publish) – Nov 2023 to Nov 2024  
+- **Master of Science in Data Science** _(Result Pending)_ – Nov 2023 to Nov 2024  
   Teesside University London, UK  
-  _Master’s Final Project:_ E-COMMERCE CUSTOMER RETENTION STRATEGIES WITH RELIABLE CHURN PREDICTION MACHINE LEARNING MODELS
+  _Master’s Final Project:_ E-commerce Customer Retention Strategies Using Churn Prediction Models
 
-- **Master of Science In Mathematics (Distinction)** – 2013 to 2015  
+- **Master of Science in Mathematics** _(Distinction)_ – 2013 to 2015  
   Tribhuvan University, Kathmandu, Nepal
 
-- **Bachelor of Science In Mathematics (2nd Division)** – 2009 to 2012  
+- **Bachelor of Science in Mathematics** _(2nd Division)_ – 2009 to 2012  
   North Bengal University, Darjeeling, India
 
 ---
 
 ## Certifications
 
-- AWS for Data Science & Data Analytics (Data Science Infinity, 2024)
-- Python for Data Science and Machine Learning Bootcamp (Udemy, 2023)
-- SQL for Data Science (Coursera, 2022)
-- Python Data Structure (Coursera, 2022)
-- Python Classes and Inheritance (Coursera, 2020)
-- Fundamentals of Reinforcement Learning (Coursera, 2020)
-- Data Science with Python (Broadway Infosys, 2018)
+- **AWS for Data Science & Data Analytics** – Data Science Infinity, 2024  
+- **Python for Data Science and Machine Learning Bootcamp** – Udemy, 2023  
+- **SQL for Data Science** – Coursera, 2022  
+- **Python Data Structure** – Coursera, 2022  
+- **Python Classes and Inheritance** – Coursera, 2020  
+- **Fundamentals of Reinforcement Learning** – Coursera, 2020  
+- **Data Science with Python** – Broadway Infosys, 2018  
 
 ---
 
-## Experiences
+## Experience
 
 ### Business Intelligence Analyst  
 **Daraz (Alibaba Venture), Kathmandu, Nepal**  
 *July 2022 to November 2023*
 
-- Created and maintained over 200 dashboards, reports, and tools in Alibaba Cloud Service to share performance metrics and insights with stakeholders, and to track the advancement of strategic goals.
-- Led a demand forecasting project, optimizing workforce planning during major sales campaigns. Implemented a SARIMA model that reduced average forecasting errors by 12%, introduced manual adjustments for post-holiday delivery backlogs, ensuring optimal staffing, timely deliveries, and enhanced operational efficiency.
-- Developed a Python algorithm to update the massive location data file, automating the process, reducing time from nearly 2 hours to less than a minute (99% time reduction).
-- Created SQL logic to address consolidated package problems, increasing consolidated delivery from roughly 65% to approximately 86%.
-- Developed user-defined functions in SQL on the Alibaba Cloud platform MaxCompute, improving long SQL query development and performance.
-- Integrated Jupyter Notebook with MaxCompute through API, reducing data preparation and model development time significantly.
+- Developed and managed 200+ dashboards and reports on Alibaba Cloud to deliver insights and track performance against strategic goals.
+- Spearheaded a demand forecasting project using SARIMA, reducing average forecast errors by 12% and optimizing workforce planning for high-demand periods.
+- Automated a massive data update process in Python, reducing time from 2 hours to under a minute (99% time saved).
+- Improved consolidated package delivery rate from 65% to 86% by implementing custom SQL logic.
+- Created user-defined functions in SQL on MaxCompute to improve query efficiency and speed.
+- Integrated Jupyter Notebook with MaxCompute via API, accelerating data prep and model development.
 
-### Data DevOps Engineer (Remote, Part Time Contract)  
+### Data DevOps Engineer (Remote, Part-Time Contract)  
 **Turing, USA**  
 *January 2023 to April 2023*
 
-- Extracted data from different data sources through API integration.
-- Designed a dashboard including KPIs from multiple sources like Salesforce, Airtable, Stripe, and Zapper.
+- Integrated data from sources like Salesforce, Airtable, Stripe, and Zapper through API extraction.
+- Created a KPI dashboard combining data from multiple sources for comprehensive reporting.
 
 ### Data Analyst (Internship)  
 **Braindigit, Kathmandu, Nepal**  
 *December 2021 to June 2022*
 
-- Conducted data collection and preparation, performed data analysis.
-- Built a Python algorithm to extract data from a PDF file and convert it to an Excel spreadsheet, saving over 80% of the time.
-- Enhanced SQL skills by tackling real-world data analysis problems.
+- Conducted data analysis and prepared data for various use cases.
+- Developed a Python script to convert PDF data into Excel, saving over 80% of manual data entry time.
+- Tackled SQL challenges in real-world projects to sharpen SQL expertise.
 
 ### Head of Exam Department / R&D / Mathematics Lecturer  
 **Sifal Secondary School, Kathmandu, Nepal**  
 *June 2017 to December 2021*
 
-- Taught Mathematics up to Grade 12.
-- Created and executed exam-related policies, including scheduling, distributing exam materials, and educating exam supervisors and invigilators.
-- Supervised and coordinated research projects from conception to implementation and dissemination, including data gathering and analysis.
-- Encouraged students to participate in the Himalayan Computational Linguistic Olympiad (HLON), resulting in honorable mentions and a gold medal for the school.
-- Automated the exam system, reducing time required for faculty members to produce and update marksheets by 70%.
-- Minimized manual labor by automating statistical procedures using Python and Excel, reducing time by 50%.
+- Taught advanced mathematics to grades 11 and 12.
+- Developed and enforced exam policies, trained exam supervisors, and coordinated exams.
+- Led R&D projects from design to data analysis and report generation.
+- Automated exam scoring system with Python and Excel, cutting processing time by 70%.
+- Led students in the Computational Linguistics Olympiad, securing a gold medal and honorable mentions.
 
 ---
 
-## Competitions or Hackathons
+## Competitions and Hackathons
 
-- **Kaggle:**  
-  Titanic - Machine Learning from Disaster  
-  House Prices - Advanced Regression Techniques
-
-- **Machinehacks:**  
-  Grocery Sales Forecast (Ranked Top 11)
-
-- **AnalyticsVidhya:**  
-  Predicting Number of Food Orders
+- **Kaggle:** Titanic - Machine Learning from Disaster; House Prices - Advanced Regression Techniques
+- **Machinehacks:** Grocery Sales Forecast (Top 11 finish)
+- **Analytics Vidhya:** Food Order Prediction
 
 ---
 
-## Writings or Reports
+## Writings and Reports
 
--  **REINFORCEMENT LEARNING IN TRAFFIC SIGNAL CONTROL
--  **WHAT DRIVES MATHEMATICS IN THE 21ST CENTURY?
--  **COMPARATIVE ANALYSIS OF FIRST TERM RESULT WITH SPSS 2078
--  **REPORT ON AUDIO/VIDEO PUBLICATION
--  **HOME VISIT REPORT
+- **Reinforcement Learning in Traffic Signal Control**
+- **What Drives Mathematics in the 21st Century?**
+- **Comparative Analysis of First Term Results Using SPSS (2078)**
+- **Report on Audio/Video Publication**
+- **Home Visit Report**
 
 [View Projects](Projects.md)
