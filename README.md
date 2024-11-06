@@ -1,4 +1,4 @@
-<div class="content-wrapper">
+
 
 **Address:** Dartford, London, UK  
 **Phone:** +447824592417  
@@ -152,4 +152,4 @@ A business intelligence analyst who is extremely motivated with 7+ years of prof
 
 [View My Projects](Projects.md)
 
-</div>
+
