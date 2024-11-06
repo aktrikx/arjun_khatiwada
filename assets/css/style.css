@@ -38,3 +38,8 @@ img {
     border-radius: 50%;
     max-width: 150px; /* Adjust as needed for profile picture size */
 }
+
+/* Hide "View on GitHub" link */
+.github-link, .gh-badge {
+    display: none !important;
+}
