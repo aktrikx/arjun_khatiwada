@@ -1,4 +1,4 @@
-# Projects
+# Projects 🚀
 
 ## End-to-End Machine Learning Project on AWS 
 A complete machine learning application to predict customer churn for e-commerce platforms using Python and Flask. The project workflow includes data acquisition, preprocessing, model development, and evaluation. A web app interface is created using Flask, deployed on an AWS EC2 instance, showcasing skills in model deployment and cloud hosting.  
