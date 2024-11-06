@@ -1,5 +1,6 @@
-# Arjun Khatiwada
 
+
+---
 **Address:** Dartford, London, UK  
 **Phone:** +447824592417  
 **Email:** [arjunkhatiwadaarjun@gmail.com](mailto:arjunkhatiwadaarjun@gmail.com)  
@@ -126,8 +127,9 @@ _June 2017 – December 2021_
 
 ## Writings | Reports
 
-- **Reinforcement Learning in Traffic Signal Control** [Link](rl_tsc_link)
-- **What Drives Mathematics in the 21st Century?** [Link](writing_link)
-- **Comparative Analysis of First Term Result with SPSS 2078** [Link](ca_link)
-- **Report on Audio/Video Publication** [Link](report_link)
-- **Home Visit Report** [Link](hv_report_link)
+- **Reinforcement Learning in Traffic Signal Control**
+- **What Drives Mathematics in the 21st Century?** 
+- **Comparative Analysis of First Term Result with SPSS 2078** 
+- **Report on Audio/Video Publication** 
+- **Home Visit Report** 
+---
