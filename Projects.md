@@ -1,4 +1,4 @@
-
+<div class="content-wrapper">
 
 ## Projects
 
@@ -116,4 +116,4 @@ Developed a Python tool to generate a word cloud from Nepali text inputs, visual
 
 Back to Resume, visit my [GitHub Portfolio](README.md).
 
-
+</div>
