@@ -10,7 +10,7 @@
   emphasizing how to implement and host a machine learning application in a cloud environment.
   
   
-  visit project [Amazon Job Vacancy Alert](https://github.com/aktrikx/e2eml_project)
+  visit project [End to End Machine Learning Project on AWS](https://github.com/aktrikx/e2eml_project)
 
 
 
@@ -29,7 +29,7 @@
   Evaluation: 1 - np.sqrt(np.square(np.log10(y_pred +1) - np.log10(y_true +1)).mean())
 
   
-  visit project [Amazon Job Vacancy Alert](https://github.com/aktrikx/DSprojects/blob/main/Book_Price_Hackathon.ipynb)
+  visit project [Book Price Prediction](https://github.com/aktrikx/DSprojects/blob/main/Book_Price_Hackathon.ipynb)
 
 
 
@@ -68,7 +68,7 @@
   center-meal combination in the test set, utilizing historical demand data, product-specific features (such as meal category, sub-category, 
   price, and discount), and fulfillment center information, including center location and city attributes.
 
-  visit project [Coronavirus Case Study](https://github.com/aktrikx/DSprojects/blob/main/Food_order_py.ipynb)
+  visit project [Food Order Prediction](https://github.com/aktrikx/DSprojects/blob/main/Food_order_py.ipynb)
 
 
 
