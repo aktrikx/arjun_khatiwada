@@ -149,6 +149,5 @@ A business intelligence analyst who is extremely motivated with 7+ years of prof
 
 
 
-## Projects
 
 [View My Projects](Projects.md)
