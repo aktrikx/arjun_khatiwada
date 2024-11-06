@@ -24,38 +24,6 @@ h1, h2, h3, h4 {
     text-align: center;
 }
 
-/* Style for links */
-a {
-    color: #007acc;
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
-}
-
-/* Profile image */
-img {
-    display: block;
-    margin: 20px auto;
-    border-radius: 50%;
-    max-width: 150px;
-}
-
-/* Style for sections */
-section {
-    margin-bottom: 30px;
-}
-
-/* List styling */
-ul {
-    padding-left: 0;
-    list-style-type: none;
-}
-
-ul li {
-    margin-bottom: 10px;
-}
 /* Hide footer credits and GitHub Pages attribution */
 footer, .site-footer, .footer {
     display: none !important;
