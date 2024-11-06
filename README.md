@@ -1,5 +1,3 @@
-
-
 **Address:** Dartford, London, UK  
 **Phone:** +447824592417  
 **Email:** [arjunkhatiwadaarjun@gmail.com](mailto:arjunkhatiwadaarjun@gmail.com)  
@@ -7,15 +5,13 @@
 **Medium:** [https://medium.com/@arjunkhatiwadaarjun](https://medium.com/@arjunkhatiwadaarjun)  
 **LinkedIn:** [www.linkedin.com/in/arjun-khatiwada-201847185](http://www.linkedin.com/in/arjun-khatiwada-201847185)
 
-
-
+---
 
 ## Professional Summary
 
 A business intelligence analyst who is extremely motivated with 7+ years of professional experience in the field of retail and education, a data science enthusiast interested in real-life data science-related projects.
 
-
-
+---
 
 ## Skills
 
@@ -24,8 +20,7 @@ A business intelligence analyst who is extremely motivated with 7+ years of prof
 - AWS, Alibaba Cloud, GitHub
 - Analytical Thinking, Meticulous Attention To Detail, Coordination, Detailed Reporting, Prioritization, Understanding Context, Clear Communications with teams or stakeholders, Learning Agility, Embracing Changes, Ownership
 
-
-
+---
 
 ## Education
 
@@ -39,8 +34,7 @@ A business intelligence analyst who is extremely motivated with 7+ years of prof
 - **Bachelor of Science In Mathematics (2nd Division)** – 2009 to 2012  
   North Bengal University, Darjeeling, India
 
-
-
+---
 
 ## Certifications
 
@@ -52,8 +46,7 @@ A business intelligence analyst who is extremely motivated with 7+ years of prof
 - Fundamentals of Reinforcement Learning (Coursera, 2020)
 - Data Science with Python (Broadway Infosys, 2018)
 
-
-
+---
 
 ## Experiences
 
@@ -94,8 +87,7 @@ A business intelligence analyst who is extremely motivated with 7+ years of prof
 - Automated the exam system, reducing time required for faculty members to produce and update marksheets by 70%.
 - Minimized manual labor by automating statistical procedures using Python and Excel, reducing time by 50%.
 
-
-
+---
 
 ## Competitions | Hackathons
 
@@ -109,47 +101,12 @@ A business intelligence analyst who is extremely motivated with 7+ years of prof
 - **AnalyticsVidhya:**  
   Predicting Number of Food Orders
 
-
-
-
-## Projects
-
-- End to End Machine Learning Project on AWS
-- Data Visualization Portfolio using Power BI
-- Amazon Job Vacancy Alert
-- Nepali News Scraping
-- Coronavirus Case Study
-- House Price Prediction
-- Book Price Prediction
-- Food Order Prediction
-- Nepali Word Cloud Generator
-- Demand Forecasting - SARIMA Model
-- E-Commerce Customer Retention Strategies with Reliable Churn Prediction ML Models
-
-
-
+---
 
 ## Writings | Reports
 
-- REINFORCEMENT LEARNING IN TRAFFIC SIGNAL CONTROL  
-
-
-- WHAT DRIVES MATHEMATICS IN THE 21ST CENTURY?  
-
-
-- COMPARATIVE ANALYSIS OF FIRST TERM RESULT WITH SPSS 2078  
-
-
-- REPORT ON AUDIO/VIDEO PUBLICATION  
-
-
-- HOME VISIT REPORT  
-
-
-
-
-
-
-[View My Projects](Projects.md)
-
-
+- **REINFORCEMENT LEARNING IN TRAFFIC SIGNAL CONTROL**
+- **WHAT DRIVES MATHEMATICS IN THE 21ST CENTURY?**
+- **COMPARATIVE ANALYSIS OF FIRST TERM RESULT WITH SPSS 2078**
+- **REPORT ON AUDIO/VIDEO PUBLICATION**
+- **HOME VISIT REPORT**
