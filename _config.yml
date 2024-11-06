@@ -20,3 +20,4 @@ remote_theme: pages-themes/time-machine@v0.2.0
 css: assets/css/style.css
 markdown: kramdown
 theme: jekyll-theme-minimal # or whichever theme you are using
+header: false
