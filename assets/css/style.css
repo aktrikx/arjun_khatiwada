@@ -1,3 +1,8 @@
+/* Hide footer credits and GitHub Pages attribution */
+footer, .site-footer, .footer {
+    display: none !important;
+}
+
 /* Overall page background */
 body {
     background-color: #f5f5f5; /* Soft gray background */
