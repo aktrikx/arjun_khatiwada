@@ -48,3 +48,8 @@ img {
 .github-repo, .gh-badge {
     display: none !important;
 }
+
+/* Hide footer credits and GitHub Pages attribution */
+footer, .site-footer, .footer {
+    display: none !important;
+}
