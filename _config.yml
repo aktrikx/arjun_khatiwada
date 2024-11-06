@@ -14,3 +14,6 @@ baseurl: "/"  # Make sure the baseurl is set to the root if you're using GitHub 
 remote_theme: pages-themes/time-machine@v0.2.0  # This pulls the Time Machine theme
 plugins:
   - jekyll-remote-theme
+
+# Disable default header content
+show_header: false
