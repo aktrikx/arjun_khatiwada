@@ -24,4 +24,4 @@ show_downloads: false
 
 theme: jekyll-theme-minimal # or your chosen theme
 remote_theme: pages-themes/time-machine@v0.2.0 # or your chosen theme
-include: ['assets/css/style.css'] # link your custom CSS
+# include: ['assets/css/style.css'] # link your custom CSS
