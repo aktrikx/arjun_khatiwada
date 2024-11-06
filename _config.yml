@@ -1,13 +1,20 @@
-title: Arjun Khatiwada
-#description: Business Intelligence Analyst
-logo: images/profile_pic.jpg
-#show_downloads: true
-theme: jekyll-remote-theme
+# title: Arjun Khatiwada
+# #description: Business Intelligence Analyst
+# logo: images/profile_pic.jpg
+# #show_downloads: true
+# theme: jekyll-remote-theme
 
+# # remote_theme: pages-themes/time-machine@v0.2.0
+# # remote_theme: pages-themes/leap-day@v0.2.0
+# # remote_theme: pages-themes/modernist@v0.2.0
 # remote_theme: pages-themes/time-machine@v0.2.0
-# remote_theme: pages-themes/leap-day@v0.2.0
-# remote_theme: pages-themes/modernist@v0.2.0
+# #remote_theme: pages-themes/slate@v0.2.0 - jekyll-remote-theme
+# #plugins:
+# #- jekyll-remote-theme # add this line to the plugins list if you already have one jekyll-theme-minimal
+
+title: Arjun Khatiwada
+# description: Business Intelligence Analyst
+logo: images/profile_pic.jpg
+show_downloads: true
 remote_theme: pages-themes/time-machine@v0.2.0
-#remote_theme: pages-themes/slate@v0.2.0 - jekyll-remote-theme
-#plugins:
-#- jekyll-remote-theme # add this line to the plugins list if you already have one jekyll-theme-minimal
+css: assets/css/style.css
