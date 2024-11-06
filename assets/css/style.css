@@ -43,3 +43,8 @@ img {
 .github-link, .gh-badge {
     display: none !important;
 }
+
+/* Hide "View on GitHub" link at the top */
+.github-repo, .gh-badge {
+    display: none !important;
+}
