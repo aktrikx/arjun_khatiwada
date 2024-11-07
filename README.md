@@ -111,4 +111,4 @@ A business intelligence analyst who is extremely motivated with **7+ years** of 
 
 ## Projects 🚀
 
-- **Check out my detailed projects and contributions:** [Projects](Projects.md)
+- Check out my detailed projects and contributions: [Projects](Projects.md)
