@@ -12,14 +12,14 @@
 
 ## Professional Summary 🧑‍💻
 
-A business intelligence analyst who is extremely motivated with **7+ years** of professional experience in the field of retail and education, and a data science enthusiast interested in real-life data science based projects.
+A business intelligence analyst who is extremely motivated with 7+ years of professional experience in the field of retail and education, and a data science enthusiast interested in real-life data science based projects.
 
 ---
 
 ## Skills 🔧
 
-- Business Intelligence Tools, Google Sheets, Jupyter Notebook, Google Colab
-- Python, SQL, Excel, Machine Learning, Data Analysis
+- Business Intelligence Tools, Power BI, Tableau, Jupyter Notebook, Google Colab
+- Python, SQL, Excel,, Google Sheets, Machine Learning, Data Analysis
 - AWS, Alibaba Cloud, GitHub
 - Analytical Thinking, Attention to Detail, Coordination, Reporting, Prioritization, Clear Communication, Learning Agility, Ownership
 
@@ -30,11 +30,11 @@ A business intelligence analyst who is extremely motivated with **7+ years** of 
 - **Master of Science in Data Science** *(Teesside University, London, UK – Nov 2023 to Nov 2024)*  
   *Master’s Final Project:* E-Commerce Customer Retention Strategies with Reliable Churn Prediction Machine Learning Models.
   
-- **Master of Science in Mathematics** *(Tribhuvan University, Kathmandu, Nepal – 2013 to 2015)*  
-  *Distinction*
+- **Master of Science in Mathematics** *(Tribhuvan University, Kathmandu, Nepal – 2013 to 2015)*
+  
 
-- **Bachelor of Science in Mathematics** *(North Bengal University, Darjeeling, India – 2009 to 2012)*  
-  *2nd Division*
+- **Bachelor of Science in Mathematics** *(North Bengal University, Darjeeling, India – 2009 to 2012)*
+  
 
 ---
 
