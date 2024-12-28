@@ -12,16 +12,20 @@
 
 ## Professional Summary 🧑‍💻
 
-A business intelligence analyst who is extremely motivated with 7+ years of professional experience in the field of retail and education, and a data science enthusiast interested in real-life data science based projects.
+A highly motivated Business Intelligence Analyst with over 7 years of experience in the retail and education industries. I possess a strong blend of skills in business intelligence and data science, with a focus on using advanced analytics, machine learning models, and data visualization to drive business strategies and improve decision-making. I am passionate about leveraging data to uncover insights, optimize processes, and forecast trends. With proficiency in tools or skills like Power BI, Tableau, Python, SQL and cloud platforms, I strive to combine my analytical thinking and technical capabilities to deliver impactful solutions that bridge the gap between business needs and data-driven insights.
 
 ---
 
 ## Skills 🔧
 
-- Business Intelligence Tools, Power BI, Tableau, Jupyter Notebook, Google Colab
-- Python, SQL, Excel,, Google Sheets, Machine Learning, Data Analysis
-- AWS, Alibaba Cloud, GitHub
-- Analytical Thinking, Attention to Detail, Coordination, Reporting, Prioritization, Clear Communication, Learning Agility, Ownership
+- Business Intelligence Tools: Power BI, Tableau, Looker
+- Programming/Technical Skills: Python, SQL, MongoDB
+- Data Science & Analytics: Data Science, Data Analysis, Data Modeling, Statistical Tests, Storytelling with Data, Machine Learning Models
+- Data Analysis Tools: Jupyter Notebook, Google Colab, Excel, BigQuery
+- Cloud Platforms Knowledge: Microsoft Azure, AWS, Alibaba Cloud, Google Cloud Platform
+- IDEs/Code Editors: VS Code, PyCharm
+- Version Control: GitHub
+- Soft Skills: Analytical Thinking, Meticulous Attention to Detail, Coordination, Detailed Reporting, Prioritization, Understanding Context, Clear Communication with Teams or Stakeholders, Learning Agility, Embracing Changes, Ownership
 
 ---
 
@@ -40,13 +44,21 @@ A business intelligence analyst who is extremely motivated with 7+ years of prof
 
 ## Certifications 🏅
 
-- **AWS for Data Science & Data Analytics** (Data Science Infinity, 2024)
-- **Python for Data Science and Machine Learning Bootcamp** (Udemy, 2023)
-- **SQL for Data Science** (Coursera, 2022)
-- **Python Data Structure** (Coursera, 2022)
-- **Python Classes and Inheritance** (Coursera, 2020)
-- **Fundamentals of Reinforcement Learning** (Coursera, 2020)
-- **Data Science with Python** (Broadway Infosys, 2018)
+- **Microsoft Certified: Azure AI Fundamentals** (Microsoft, Dec 2024)
+- **MongoDB Data Modeling Path** (MongoDB University, Dec 2024)
+- **Analyze and Visualize Looker Data** (Google, Nov 2024)
+- **Data Modeling for Power BI** (Pragmatic Works, Nov 2024)
+- **Geospatial Analysis** (Kaggle, Nov 2024)
+- **GDPR Foundations** (Measured Collective, Sep 2024)
+- **AWS for Data Science & Data Analytics** (Data Science Infinity, Jul 2024)
+- **Supply Chain Logistics** (Coursera, Aug 2023)
+- **Python for Data Science and Machine Learning Bootcamp** (Udemy, Mar 2023)
+- **Python Data Structures** (Coursera, Jul 2022)
+- **SQL for Data Science** (Coursera, Jul 2022)
+- **Fundamentals of Reinforcement Learning** (Coursera, Oct 2020)
+- **Python Classes and Inheritance** (Coursera, Oct 2020)
+- **Data Science with Python** (Broadway Infosys, Jan 2019)
+
 
 ---
 
