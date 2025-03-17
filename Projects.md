@@ -1,5 +1,14 @@
 # Projects 🚀
 
+## End-to-End ETL and Machine Learning Pipeline on Google Cloud ☁️
+An automated ETL pipeline designed to ingest, process, and analyze data from CSV files and a CRM system using Google Cloud services. The workflow begins with data ingestion into Google Cloud Storage (GCS), where a Google Cloud Function automatically detects new files and loads them into BigQuery. Data transformation occurs within BigQuery, structuring raw data into optimized fact and dimension tables for analytics and reporting.
+
+<img width="736" alt="Screenshot 2025-03-17 at 11 42 52" src="https://github.com/user-attachments/assets/650de1bb-67e1-474a-a946-e5459b442832" />
+
+For business intelligence, tools like Looker and Looker Studio are integrated to create dashboards and enhance reporting efficiency through pre-aggregated views in BigQuery. These tools allow business users to interact with data intuitively, facilitating real-time insights and decision-making. Additionally, BigQuery ML is used for in-database machine learning, with Python notebooks supporting more advanced model training and evaluation. Insights from machine learning models are seamlessly visualized within Looker Studio, ensuring a complete pipeline from raw data ingestion to actionable intelligence.
+
+---
+
 ## Human Preference Prediction for Chatbot Responses - Kaggle 🏆
 A machine learning project focused on predicting user preferences in chatbot-generated responses using NLP techniques and deep learning models. The workflow includes data preprocessing, feature extraction, response evaluation, and model inference. Text similarity metrics such as ROUGE, BLEU, and cosine similarity were used to assess chatbot performance, while GPT-2 was leveraged for tokenization and response analysis. The project optimizes chatbot alignment with human preferences across multiple languages, ensuring a structured and efficient pipeline.
 
