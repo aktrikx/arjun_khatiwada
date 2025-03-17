@@ -1,5 +1,10 @@
 # Projects 🚀
 
+## Human Preference Prediction for Chatbot Responses - Kaggle 🏆
+A machine learning project focused on predicting user preferences in chatbot-generated responses using NLP techniques and deep learning models. The workflow includes data preprocessing, feature extraction, response evaluation, and model inference. Text similarity metrics such as ROUGE, BLEU, and cosine similarity were used to assess chatbot performance, while GPT-2 was leveraged for tokenization and response analysis. The project optimizes chatbot alignment with human preferences across multiple languages, ensuring a structured and efficient pipeline.
+
+---
+
 ## End-to-End Machine Learning Project on AWS 🤖 
 A complete machine learning application to predict customer churn for e-commerce platforms using Python and Flask. The project workflow includes data acquisition, preprocessing, model development, and evaluation. A web app interface is created using Flask, deployed on an AWS EC2 instance, showcasing skills in model deployment and cloud hosting.  
 
