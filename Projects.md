@@ -1,5 +1,16 @@
 # Projects 🚀
 
+## British Airways Review Dashboard (Tableau Project) 📊
+This project involved designing and developing an interactive dashboard in Tableau to analyse customer reviews of British Airways between March 2016 and October 2023. The dashboard allows users to explore various aspects of the airline's performance, including overall ratings and specific service metrics such as cabin staff service, food, entertainment, ground service, seat comfort, and value for money. Users can filter data by traveller type, seat type, continent, and aircraft model, making the analysis highly customizable and insightful. 
+
+<img width="1206" alt="Screenshot 2025-05-31 at 15 01 18" src="https://github.com/user-attachments/assets/2523431d-3b51-4998-98fb-440bd7236c26" />
+
+
+The dashboard features a time-series chart to show how average ratings have changed over time, a map visual to display country-wise, and a comparative analysis of different aircraft based on review scores and volume. The findings revealed key insights, such as the Boeing 747-400 receiving the highest average rating and areas like food and entertainment receiving lower scores. This project demonstrates data visualisation, storytelling through data, and the ability to translate raw data into actionable insights.
+
+[British Airways Review Dashboard](https://public.tableau.com/app/profile/arjun.khatiwada/viz/BritishAirwaysDashboard_17486995276090/Dashboard1)
+
+
 ## End-to-End ETL and Machine Learning Pipeline on Google Cloud ☁️
 An automated ETL pipeline designed to ingest, process, and analyze data from CSV files and a CRM system using Google Cloud services. The workflow begins with data ingestion into Google Cloud Storage (GCS), where a Google Cloud Function automatically detects new files and loads them into BigQuery. Data transformation occurs within BigQuery, structuring raw data into optimized fact and dimension tables for analytics and reporting.
 
