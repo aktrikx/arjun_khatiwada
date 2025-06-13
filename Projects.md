@@ -14,7 +14,7 @@ From a temporal perspective, the year-over-year trends suggest relative stabilit
 
 Key challenges identified include high occupancy in Mental Illness and General & Acute categories, underutilization during daytime shifts, and limited capacity for specialized services such as Learning Disabilities. Potential solutions involve optimizing shift-based scheduling, expanding mental health infrastructure, and ensuring more balanced distribution of resources. By leveraging these insights, healthcare administrators can better address service gaps and improve patient care outcomes.
 
-[NHS Bed Report Dashboard]((https://github.com/aktrikx/nhs_bed_report?tab=readme-ov-file))
+[NHS Bed Report Dashboard](https://github.com/aktrikx/nhs_bed_report?tab=readme-ov-file)
 
 
 ## British Airways Review Dashboard (Tableau Project) 📊
