@@ -125,6 +125,8 @@ A web scraping project capturing news headlines and URLs from Nepal News to crea
 ## Data Visualisation Portfolio using Power BI 📊
 This project is a comprehensive Power BI portfolio where I applied advanced data modeling, transformation, and visualization techniques to create dynamic, interactive dashboards. By leveraging DAX for complex calculations and Power Query for data wrangling, I transformed raw data into meaningful insights. The dashboards feature multiple reports with intuitive drill-throughs, slicers, and custom visuals, providing users with a detailed, yet user-friendly, experience. This project demonstrates my ability to build sophisticated, data-driven solutions that enable stakeholders to explore trends, analyze key metrics, and make informed decisions.
 
+<img width="333" alt="Screenshot 2025-06-11 at 11 25 05" src="https://github.com/user-attachments/assets/16685e37-cde0-47a6-a35d-c915d382b8aa" />
+
 [Data Visualisation Portfolio using Power BI](https://github.com/aktrikx/Visualization_PowerBI/blob/main/big_data_portfolio_arjun_khatiwada.pdf)
 
 ---
