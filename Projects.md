@@ -96,7 +96,10 @@ A Python script that monitors Amazon Warehouse job listings and sends email aler
 ---
 
 ## Coronavirus Case Study 🦠
-An epidemiological analysis of COVID-19 case and death statistics across 213 countries from December 2019 to December 2020. This project examines pandemic trends, including peak periods and geographic distribution, for a comprehensive understanding of the global impact.  
+An epidemiological analysis of COVID-19 case and death statistics across 213 countries from December 2019 to December 2020. This project examines pandemic trends, including peak periods and geographic distribution, for a comprehensive understanding of the global impact. 
+
+<img width="416" alt="Screenshot 2025-06-18 at 23 27 29" src="https://github.com/user-attachments/assets/ec0d6b76-7d5d-4b46-860d-2770d061db38" />
+
 
 [Coronavirus Case Study](https://github.com/aktrikx/DSprojects/blob/main/Coronavirus__Case_Study.ipynb)
 
