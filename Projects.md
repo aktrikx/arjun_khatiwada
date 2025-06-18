@@ -60,12 +60,16 @@ A machine learning project focused on predicting user preferences in chatbot-gen
 ![ml_chatbot](https://github.com/user-attachments/assets/daa7770f-2525-4895-bf84-06df41618c93)
 
 
-Text similarity metrics such as ROUGE, BLEU, and cosine similarity were used to assess chatbot performance, while GPT-2 was leveraged for tokenization and response analysis. The project optimizes chatbot alignment with human preferences across multiple languages, ensuring a structured and efficient pipeline.
+Text similarity metrics such as ROUGE, BLEU, and cosine similarity were used to assess chatbot performance, while GPT-2 was leveraged for tokenization and response analysis. The project optimises chatbot alignment with human preferences across multiple languages, ensuring a structured and efficient pipeline.
 
 ---
 
 ## End-to-End Machine Learning Project on AWS 🤖 
-A complete machine learning application to predict customer churn for e-commerce platforms using Python and Flask. The project workflow includes data acquisition, preprocessing, model development, and evaluation. A web app interface is created using Flask, deployed on an AWS EC2 instance, showcasing skills in model deployment and cloud hosting.  
+A complete machine learning application to predict customer churn for e-commerce platforms using Python and Flask. The project workflow includes data acquisition, preprocessing, model development, and evaluation. A web app interface is created using Flask, deployed on an AWS EC2 instance, showcasing skills in model deployment and cloud hosting.
+
+
+<img width="912" alt="Screenshot 2025-06-18 at 23 23 08" src="https://github.com/user-attachments/assets/15f4c9da-a95b-4eef-b30f-38537772751c" />
+
 
 [End to End Machine Learning Project on AWS](https://github.com/aktrikx/e2eml_project)
 
@@ -83,6 +87,9 @@ Using a dataset of over 6,000 books, this project builds a model to predict book
 
 ## Amazon Job Vacancy Alert 📧
 A Python script that monitors Amazon Warehouse job listings and sends email alerts when specific job criteria are met. It runs every 10 minutes, automatically handling pop-ups for location permissions and cookie consent.  
+
+<img width="947" alt="job_automation_python" src="https://github.com/user-attachments/assets/1c46f541-2cea-418b-9eb9-8c63e28b7ff3" />
+
 
 [Amazon Job Vacancy Alert](https://github.com/aktrikx/amazon_job_vacancy_alert)
 
