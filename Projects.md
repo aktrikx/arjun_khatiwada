@@ -1,18 +1,35 @@
 # Projects 🚀
 
+## PNG Contact Table Extractor 🧾
+
+This project focuses on automating the extraction of structured contact information from PNG images that contain contact tables. These tables typically include details such as contact name, job title, phone number, extension, email, and role type. The core objective was to convert these often messy and inconsistently formatted image-based tables into a clean, organised Excel file, with one contact per row and all fields correctly aligned.
+
+The problem arose when using traditional OCR tools like Adobe Acrobat, which exported the text but produced unreliable results—data fields were frequently misaligned, with names, titles, and emails appearing on the wrong lines or merged together. Additionally, the variation in field labelling and inconsistent formats for phone numbers and extensions made manual cleanup tedious and inefficient, especially when dealing with multiple image files.
+
+<img width="1433" alt="pngtoexcel_result" src="https://github.com/user-attachments/assets/18afd652-afb6-45eb-82d3-7ea12105b546" />
+
+To solve this, I developed a Python script that uses Tesseract OCR to extract raw text from each image and applies a combination of regular expressions and logical rules to identify and clean up the relevant data. The script intelligently parses through the OCR output to extract structured information such as names, titles, phone numbers, email addresses, and role types. It uses contextual cues and keyword matching to fix misplacements and inconsistencies. After extracting and organizing the data, the script compiles everything into a structured Excel spreadsheet using the pandas and openpyxl libraries.
+
+The project leverages Python along with libraries such as Pillow for image processing, pytesseract for OCR, pandas for data manipulation, and regular expressions for pattern matching. The result is an efficient, automated pipeline that transforms folders of contact table images into a single, well-formatted Excel file, saving hours of manual data entry and cleanup.
+
+This project demonstrates practical applications of OCR, text processing, and automation, and highlights the power of Python in solving real-world data extraction problems.
+
+[PNG Contact Table Extractor](https://github.com/aktrikx/PNG_To_Contact_Table_Extractor_Python)
+
+
 ## NHS Bed Utilisation Dashboard 🇬🇧🛏️
 
-The NHS England Beds Report 2025 dashboard provides a comprehensive overview of hospital bed availability and occupancy across various categories including General & Acute, Mental Illness, Maternity, and Learning Disabilities. It presents data trends across years and distinguishes bed usage by shift (Day vs. Night), offering insights into healthcare capacity utilization and operational dynamics within NHS England hospitals.
+The NHS England Beds Report 2025 dashboard provides a comprehensive overview of hospital bed availability and occupancy across various categories, including General & Acute, Mental Illness, Maternity, and Learning Disabilities. It presents data trends across years and distinguishes bed usage by shift (Day vs. Night), offering insights into healthcare capacity utilisation and operational dynamics within NHS England hospitals.
 
-The dashboard reveals that General & Acute beds make up the largest share of total capacity and consistently show high occupancy levels, reflecting ongoing pressure in this area. Mental Illness beds, while representing a smaller proportion of total beds, exhibit particularly high occupancy rates over 90% in recent years indicating a persistent strain on mental health services. Learning Disabilities and Maternity beds make up a smaller fraction of overall capacity and also show considerable usage levels.
+The dashboard reveals that General & Acute beds make up the largest share of total capacity and consistently show high occupancy levels, reflecting ongoing pressure in this area. Mental Illness beds, while representing a smaller proportion of total beds, exhibit particularly high occupancy rates over 90% in recent years, indicating a persistent strain on mental health services. Learning Disabilities and Maternity beds make up a smaller fraction of overall capacity and also show considerable usage levels.
 
 Shift analysis reveals that more than 90% of occupied beds are recorded during the night shift, raising questions about operational efficiency and resource allocation during daytime hours. This disparity could point to issues in admission patterns, patient flow, or data logging practices, suggesting the need for further operational review.
 
 ![454855105-38f7cd14-003b-470c-9f70-2967719cfdfd](https://github.com/user-attachments/assets/032c6591-1ca7-4c60-8c88-ee5f51c3f1e9)
 
-From a temporal perspective, the year-over-year trends suggest relative stability in bed numbers, with a noticeable dip around 2020 likely due to the impact of the COVID-19 pandemic. While bed numbers have recovered since then, occupancy has remained high, emphasizing the need for continuous monitoring and capacity planning.
+From a temporal perspective, the year-over-year trends suggest relative stability in bed numbers, with a noticeable dip around 2020 likely due to the impact of the COVID-19 pandemic. While bed numbers have recovered since then, occupancy has remained high, emphasising the need for continuous monitoring and capacity planning.
 
-Key challenges identified include high occupancy in Mental Illness and General & Acute categories, underutilization during daytime shifts, and limited capacity for specialized services such as Learning Disabilities. Potential solutions involve optimizing shift-based scheduling, expanding mental health infrastructure, and ensuring more balanced distribution of resources. By leveraging these insights, healthcare administrators can better address service gaps and improve patient care outcomes.
+Key challenges identified include high occupancy in Mental Illness and General & Acute categories, underutilization during daytime shifts, and limited capacity for specialised services such as Learning Disabilities. Potential solutions involve optimising shift-based scheduling, expanding mental health infrastructure, and ensuring more balanced distribution of resources. By leveraging these insights, healthcare administrators can better address service gaps and improve patient care outcomes.
 
 [NHS Bed Report Dashboard](https://github.com/aktrikx/nhs_bed_report?tab=readme-ov-file)
 
@@ -29,7 +46,7 @@ The dashboard features a time-series chart to show how average ratings have chan
 
 
 ## End-to-End ETL and Machine Learning Pipeline on Google Cloud ☁️
-An automated ETL pipeline designed to ingest, process, and analyze data from CSV files and a CRM system using Google Cloud services. The workflow begins with data ingestion into Google Cloud Storage (GCS), where a Google Cloud Function automatically detects new files and loads them into BigQuery. Data transformation occurs within BigQuery, structuring raw data into optimized fact and dimension tables for analytics and reporting.
+An automated ETL pipeline designed to ingest, process, and analyse data from CSV files and a CRM system using Google Cloud services. The workflow begins with data ingestion into Google Cloud Storage (GCS), where a Google Cloud Function automatically detects new files and loads them into BigQuery. Data transformation occurs within BigQuery, structuring raw data into optimized fact and dimension tables for analytics and reporting.
 
 <img width="736" alt="Screenshot 2025-03-17 at 11 42 52" src="https://github.com/user-attachments/assets/650de1bb-67e1-474a-a946-e5459b442832" />
 
