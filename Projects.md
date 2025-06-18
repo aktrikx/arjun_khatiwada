@@ -74,7 +74,7 @@ A complete machine learning application to predict customer churn for e-commerce
 ## Book Price Prediction 📚
 Using a dataset of over 6,000 books, this project builds a model to predict book prices based on attributes like genre, author, ratings, and reviews. This involves feature engineering, model training, and performance evaluation, culminating in a predictive solution for book prices. 
 
-<img width="658" alt="book_price" src="https://github.com/user-attachments/assets/c1ba40f0-1c6a-487d-a07c-a96c61f15465" />
+<img width="948" alt="book_price_ml" src="https://github.com/user-attachments/assets/4982e777-008a-4c84-b2df-ffe0d75d5cb7" />
 
 
 [Book Price Prediction](https://github.com/aktrikx/DSprojects/blob/main/Book_Price_Hackathon.ipynb)
