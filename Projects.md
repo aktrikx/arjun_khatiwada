@@ -115,6 +115,8 @@ Built a time-series model to forecast food order demand across multiple fulfillm
 ## Nepali News Scraping 📰
 A web scraping project capturing news headlines and URLs from Nepal News to create a structured dataset of current news. The scraped data is stored in a dataframe and saved for further analysis, demonstrating web scraping and data organization skills.  
 
+<img width="869" alt="Screenshot 2025-06-18 at 23 29 12" src="https://github.com/user-attachments/assets/8c5acf51-f355-4485-9811-12f1a7e1136d" />
+
 [Nepali News Scraping](https://github.com/aktrikx/Python_projects/blob/main/Nepali_News_Scraping.ipynb)
 
 ---
