@@ -55,7 +55,12 @@ For business intelligence, tools like Looker and Looker Studio are integrated to
 ---
 
 ## Human Preference Prediction for Chatbot Responses(LLM) - Kaggle 🏆
-A machine learning project focused on predicting user preferences in chatbot-generated responses using NLP techniques and deep learning models. The workflow includes data preprocessing, feature extraction, response evaluation, and model inference. Text similarity metrics such as ROUGE, BLEU, and cosine similarity were used to assess chatbot performance, while GPT-2 was leveraged for tokenization and response analysis. The project optimizes chatbot alignment with human preferences across multiple languages, ensuring a structured and efficient pipeline.
+A machine learning project focused on predicting user preferences in chatbot-generated responses using NLP techniques and deep learning models. The workflow includes data preprocessing, feature extraction, response evaluation, and model inference. 
+
+![ml_chatbot](https://github.com/user-attachments/assets/daa7770f-2525-4895-bf84-06df41618c93)
+
+
+Text similarity metrics such as ROUGE, BLEU, and cosine similarity were used to assess chatbot performance, while GPT-2 was leveraged for tokenization and response analysis. The project optimizes chatbot alignment with human preferences across multiple languages, ensuring a structured and efficient pipeline.
 
 ---
 
