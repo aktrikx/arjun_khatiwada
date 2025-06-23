@@ -108,6 +108,9 @@ An epidemiological analysis of COVID-19 case and death statistics across 213 cou
 ## Food Order Prediction 🍔
 Built a time-series model to forecast food order demand across multiple fulfillment centers. This project supports inventory optimization by predicting weekly demand, helping centers manage staffing and raw materials more effectively.  
 
+<img width="551" alt="Screenshot 2025-06-23 at 10 13 04" src="https://github.com/user-attachments/assets/83726158-3699-4c12-87f0-f78f228f2b03" />
+
+
 [Food Order Prediction](https://github.com/aktrikx/DSprojects/blob/main/Food_order_py.ipynb)
 
 ---
