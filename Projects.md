@@ -137,6 +137,9 @@ This project is a comprehensive Power BI portfolio where I applied advanced data
 ## Demand Forecasting (SARIMA Model) 📅📈 
 Developed a SARIMA model for demand forecasting, reducing average forecast errors by 12%. This project improved workforce planning for major sales events by aligning staffing levels with demand, reducing costs and enhancing operational efficiency.
 
+<img width="457" alt="Screenshot 2025-06-23 at 10 21 41" src="https://github.com/user-attachments/assets/a0418a5e-ee60-413b-ad62-d651e730cf63" />
+
+
 ---
 
 ## Nepali Word Cloud Generator 🇳🇵💭
