@@ -6,7 +6,7 @@ This is the repository for my master's final project exploring customer retentio
 
 <img width="624" height="552" alt="Screenshot 2025-07-20 at 22 31 04" src="https://github.com/user-attachments/assets/4a251e45-b348-415d-9d93-2dd6169009ae" />
 
-[Paper](https://github.com/aktrikx/mp_cp_ak/blob/main/Master_Project_Data_Science_Arjun_Khatiwada.pdf)
+[E-COMMERCE CUSTOMER RETENTION STRATEGIES WITH RELIABLE CHURN PREDICTION MACHINE LEARNING MODELS](https://github.com/aktrikx/mp_cp_ak/blob/main/Master_Project_Data_Science_Arjun_Khatiwada.pdf)
 
 ## NHS Bed Utilisation Dashboard 🇬🇧🛏️
 
