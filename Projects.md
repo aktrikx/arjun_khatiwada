@@ -1,5 +1,15 @@
 # Projects 🚀
 
+## E-COMMERCE CUSTOMER RETENTION STRATEGIES WITH RELIABLE CHURN
+
+PREDICTION MACHINE LEARNING MODELS
+
+This is the repository for my master's final project exploring customer retention strategies in the e-commerce sector by developing machine learning models to predict customer churn. Leveraging a dataset with imbalanced classes by addressing class imbalance using Synthetic Minority Over-sampling Technique (SMOTE) and implementing data preprocessing techniques, including outlier detection, feature scaling, and one-hot encoding. Key algorithms applied are Logistic Regression, Random Forest, and XGBoost, chosen for their effectiveness in classification tasks and feature interpretation. Model performance was evaluated using metrics suited for imbalanced data, such as F1-score and recall. Results revealed critical predictors of churn, enabling actionable insights to target at-risk customers. This study highlights the value of machine learning in guiding retention strategies and proposes future enhancements, including real-time model deployment using Python Flask to further support proactive customer relationship management in e-commerce.
+
+<img width="624" height="552" alt="Screenshot 2025-07-20 at 22 31 04" src="https://github.com/user-attachments/assets/4a251e45-b348-415d-9d93-2dd6169009ae" />
+
+[Paper](https://github.com/aktrikx/mp_cp_ak/blob/main/Master_Project_Data_Science_Arjun_Khatiwada.pdf)
+
 ## NHS Bed Utilisation Dashboard 🇬🇧🛏️
 
 The NHS England Beds Report 2025 dashboard provides a comprehensive overview of hospital bed availability and occupancy across various categories, including General & Acute, Mental Illness, Maternity, and Learning Disabilities. It presents data trends across years and distinguishes bed usage by shift (Day vs. Night), offering insights into healthcare capacity utilisation and operational dynamics within NHS England hospitals.
