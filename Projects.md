@@ -1,8 +1,13 @@
-<div style="display:flex; justify-content:space-between; width:100%; font-weight:bold; font-size:28px;">
-  <h2 style="margin:0;">🚀 Projects</h2>
-  <a href="https://aktrikx.github.io/arjun_khatiwada/" style="text-decoration:none;">
+<div style="display:flex; justify-content:space-between; width:100%; font-weight:700; font-size:32px; align-items:center;">
+  
+  <a href="#projects" style="text-decoration:none; color:black;">
+    🚀 Projects
+  </a>
+
+  <a href="https://aktrikx.github.io/arjun_khatiwada/" style="text-decoration:none; color:black;">
     📄 My CV
   </a>
+
 </div>
 
 ## E-COMMERCE CUSTOMER RETENTION STRATEGIES WITH RELIABLE CHURN PREDICTION MACHINE LEARNING MODELS
