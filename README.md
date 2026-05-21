@@ -4,7 +4,7 @@
      style="text-decoration:none; color:#1f6feb; border-bottom:3px solid #1f6feb;">
     📄 My CV
   </a>
-
+  
   <a href="https://aktrikx.github.io/arjun_khatiwada/Projects.html"
      style="text-decoration:none; color:black;">
     🚀 Projects
