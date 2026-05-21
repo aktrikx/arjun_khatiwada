@@ -170,4 +170,4 @@ This project demonstrates practical applications of OCR, text processing, and au
 
 ---
 
-Back to Resume: [GitHub Portfolio](README.md)
+## [Back to Top](Projects.md)
