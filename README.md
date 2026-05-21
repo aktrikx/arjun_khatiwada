@@ -1,5 +1,5 @@
 <div style="display:flex; justify-content:space-between; width:100%; font-weight:bold; font-size:28px;">
-  <h2 style="margin:0;", href="https://aktrikx.github.io/arjun_khatiwada/" style="text-decoration:none;">📄 My CV</h2>
+  <a style="margin:0;", href="https://aktrikx.github.io/arjun_khatiwada/" style="text-decoration:none;">📄 My CV</a>
   <a href="https://aktrikx.github.io/arjun_khatiwada/Projects.html" style="text-decoration:none;">
     🚀 Projects
   </a>
