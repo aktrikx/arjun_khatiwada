@@ -1,14 +1,13 @@
 <div style="display:flex; justify-content:space-between; width:100%; font-weight:700; font-size:32px; align-items:center;">
-
-  <a href="https://aktrikx.github.io/arjun_khatiwada/Projects.html"
-     style="text-decoration:none; color:#1f6feb; border-bottom:3px solid #1f6feb;">
+  
+   <a href="https://aktrikx.github.io/arjun_khatiwada/" style="text-decoration:none; color:black;">
+    📄 My CV
+  </a>
+  
+  <a href="https://aktrikx.github.io/arjun_khatiwada/Projects.html" style="text-decoration:none; color:black;">
     🚀 Projects
   </a>
 
-  <a href="https://aktrikx.github.io/arjun_khatiwada/"
-     style="text-decoration:none; color:black;">
-    📄 My CV
-  </a>
 
 </div>
 
