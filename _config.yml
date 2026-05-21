@@ -8,7 +8,7 @@
 # # github_username: "aktrikx"   # Optional: Your GitHub username
 
 title: "Arjun Khatiwada"
-description: "Business Intelligence Analyst | Data Analyst"
+# description: "Business Intelligence Analyst | Data Analyst"
 # url: "https://yourdomain.com" # Replace this with your actual domain if needed
 baseurl: "/"  # Make sure the baseurl is set to the root if you're using GitHub Pages
 
