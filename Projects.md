@@ -1,4 +1,5 @@
-# Projects 🚀                                                                                       #[GitHub My CV](README.md)
+| # Projects 🚀 | #[GitHub My CV](README.md) |
+| :--- | ---: |
 
 ## E-COMMERCE CUSTOMER RETENTION STRATEGIES WITH RELIABLE CHURN PREDICTION MACHINE LEARNING MODELS
 
