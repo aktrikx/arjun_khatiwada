@@ -1,16 +1,12 @@
 <table width="100%">
-<tr>
-<td align="left">
-
-## 🚀 Projects
-
-</td>
-<td align="right">
-
-📄 [My CV](README.md)
-
-</td>
-</tr>
+  <tr>
+    <td align="left">
+      <h2>🚀 Projects</h2>
+    </td>
+    <td align="right">
+      📄 <a href="README.md">My CV</a>
+    </td>
+  </tr>
 </table>
 
 
