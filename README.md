@@ -2,7 +2,7 @@
 ## Arjun Khatiwada
 
 **Address:** Dartford, London, UK  
-**Phone:** +447824592417  
+**Phone:** +447824592417
 **Email:** [arjunkhatiwadaarjun@gmail.com](mailto:arjunkhatiwadaarjun@gmail.com)  
 **GitHub Portfolio:** [https://github.com/aktrikx](https://github.com/aktrikx)  
 **Medium:** [https://medium.com/@arjunkhatiwadaarjun](https://medium.com/@arjunkhatiwadaarjun)  
@@ -18,12 +18,12 @@ A highly motivated Business Intelligence Analyst with over 7 years of experience
 
 ## Skills 🔧
 
-- Business Intelligence Tools: Power BI, Tableau, Looker
-- Programming/Technical Skills: Python, SQL, MongoDB
+- Business Intelligence Tools: Excel, Power BI, Tableau, Looker
+- Programming/Technical Skills: Python, SQL, MongoDB,BigQuery
 - Data Science & Analytics: Data Science, Data Analysis, Data Modeling, Statistical Tests, Storytelling with Data, Machine Learning Models
-- Data Analysis Tools: Jupyter Notebook, Google Colab, Excel, BigQuery
 - Cloud Platforms Knowledge: Microsoft Azure, AWS, Alibaba Cloud, Google Cloud Platform
 - IDEs/Code Editors: VS Code, PyCharm
+- Tools & DevOps: Jupyter Notebook, Google colab VS Code, ETL, CI/CD
 - Version Control: GitHub
 - Soft Skills: Analytical Thinking, Meticulous Attention to Detail, Coordination, Detailed Reporting, Prioritization, Understanding Context, Clear Communication with Teams or Stakeholders, Learning Agility, Embracing Changes, Ownership
 
@@ -31,10 +31,10 @@ A highly motivated Business Intelligence Analyst with over 7 years of experience
 
 ## Education 🎓
 
-- **Master of Science in Data Science** *(Teesside University, London, UK – Nov 2023 to Nov 2024)*  
+- **Master of Science in Data Science(Distinction)** *(Teesside University, London, UK – Nov 2023 to Nov 2024)*  
   *Master’s Final Project:* E-Commerce Customer Retention Strategies with Reliable Churn Prediction Machine Learning Models.
   
-- **Master of Science in Mathematics** *(Tribhuvan University, Kathmandu, Nepal – 2013 to 2015)*
+- **Master of Science in Mathematics(Distinction)** *(Tribhuvan University, Kathmandu, Nepal – 2013 to 2015)*
   
 
 - **Bachelor of Science in Mathematics** *(North Bengal University, Darjeeling, India – 2009 to 2012)*
@@ -44,6 +44,8 @@ A highly motivated Business Intelligence Analyst with over 7 years of experience
 
 ## Certifications 🏅
 
+- **Data Camp: Data Analyst in Power BI** (Microsoft, Jul 2025)
+- **Microsoft Certified: Azure Data Fundamentals** (Microsoft, Jan 2025)
 - **Microsoft Certified: Azure AI Fundamentals** (Microsoft, Dec 2024)
 - **MongoDB Data Modeling Path** (MongoDB University, Dec 2024)
 - **Analyze and Visualize Looker Data** (Google, Nov 2024)
@@ -64,6 +66,12 @@ A highly motivated Business Intelligence Analyst with over 7 years of experience
 
 ## Experience 🌍
 
+### Portfolio Professional Tutor (Computing)   
+**Teesside University London, London, UK** _(April 2025 – Present)_  
+- Instructing MSc Data Science modules, guiding students in applying advanced computing concepts to real-world business scenarios using Power BI, Python, and SQL.
+- Supervising students on their data science/machine learning projects.
+- Contributing to the development of high-quality curriculum materials.
+
 ### Business Intelligence Analyst  
 **Daraz (Alibaba Venture), Kathmandu, Nepal** _(July 2022 – Nov 2023)_  
 - Created and maintained over 200 dashboards, reports, and other tools in Alibaba Cloud Service to share performance metrics and insights with stakeholders, tracking the advancement of strategic goals.
@@ -72,14 +80,15 @@ A highly motivated Business Intelligence Analyst with over 7 years of experience
 - Created SQL logic to address consolidated package problems, increasing consolidated delivery from roughly 65% to approximately 86%.
 - Developed and utilized user-defined functions in SQL on the Alibaba Cloud platform MaxCompute, improving long SQL query development and performance.
 - Integrated Jupyter Notebook and MaxCompute of Alibaba Cloud through API, significantly reducing data preparation and model development time.
+- Prepared Weekly and Monthly Business Report
 
-
-### Data DevOps Engineer _(Remote, Part-Time Contract)_  
+### Business Intelligence Engineer _(Remote, Part-Time Contract)_  
 **Turing, USA** _(Jan 2023 – Apr 2023)_  
 - Data dump from different data sources through API integration.
-- Designed the dashboard including KPIs from various sources like Salesforce, Airtable, Stripe, and Zapper.
+- Designed the dashboard, including KPIs from various sources like Salesforce, Airtable, Stripe, and Zapper.
+- Enabled the executive leadership team to reduce manual reporting time by 50%.
 
-### Data Analyst (Intern)  
+### Data Analyst  
 **Braindigit, Kathmandu, Nepal** _(Dec 2021 – June 2022)_  
 - Conducted data collection, preparation, and performed data analysis.
 - Completed reporting and communication tasks.
@@ -87,15 +96,12 @@ A highly motivated Business Intelligence Analyst with over 7 years of experience
 - Enhanced SQL skills by tackling real-world data analysis problems.
 
 
-### Head of Exam Department | R&D | Mathematics Lecturer  
+### Head of Exam Department/ Data Officer  
 **Sifal Secondary School, Kathmandu, Nepal** _(June 2017 – Dec 2021)_  
-- Taught Mathematics up to Grade 12.
 - Created and executed exam-related policies, including scheduling, distributing exam materials, and educating exam supervisors and invigilators.
-- Stayed updated on modifications to test regulations and policies, ensuring that the college complied with them.
-- Coordinated and supervised research project conception, implementation, and dissemination, including data gathering and analysis.
-- Encouraged and assisted students to compete in the Himalayan Computational Linguistic Olympiad (HLON), where two students earned honorable mentions, and one student won a gold medal for the first time for the school.
+- Encouraged and assisted students to compete in the Himalayan Computational Linguistic Olympiad (HLON), where two students earned honourable mentions, and one student won a gold medal for the first time for the school.
 - Automated the exam system, reducing the time required for each faculty member to produce and update marksheets from around 20 hours to 6 hours, representing a 70% reduction in time.
-- Minimized manual labor (by almost 50%) involved in developing statistical procedures for publishing a comparative analysis of results using SPSS by automating the process with Python and Excel.
+- Minimized manual labour (by almost 50%) involved in developing statistical procedures for publishing a comparative analysis of results using SPSS by automating the process with Python and Excel.
 
 ---
 
