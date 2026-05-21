@@ -1,6 +1,6 @@
 <div style="display:flex; justify-content:space-between; width:100%; font-weight:700; font-size:32px; align-items:center;">
   
-  <a href="#projects" style="text-decoration:none; color:black;">
+  <a href="https://aktrikx.github.io/arjun_khatiwada/#projects" style="text-decoration:none; color:black;">
     🚀 Projects
   </a>
 
