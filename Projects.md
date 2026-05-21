@@ -1,4 +1,4 @@
-| **Projects 🚀** | | **📄 GitHub My CV** |
+| **Projects 🚀** |                                                                                                         | **📄 GitHub My CV** |
 | :--- | :---: | ---: |
 
 
