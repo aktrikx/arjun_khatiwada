@@ -142,4 +142,5 @@ A highly motivated Business Intelligence Analyst with over 7 years of experience
 ## Projects 🚀
 
 - Check out my detailed projects and contributions: [Projects](Projects.md)
-- [Back to Top](README.md)
+
+## [Back to Top](README.md)
