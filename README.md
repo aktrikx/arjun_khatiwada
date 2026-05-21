@@ -1,11 +1,11 @@
 <div style="display:flex; justify-content:space-between; width:100%; font-weight:700; font-size:32px; align-items:center;">
   
+ <a href="https://aktrikx.github.io/arjun_khatiwada/" style="text-decoration:none; color:black;">
+    📄 My CV
+  </a> 
+  
   <a href="#projects" style="text-decoration:none; color:black;">
     🚀 Projects
-  </a>
-
-  <a href="https://aktrikx.github.io/arjun_khatiwada/" style="text-decoration:none; color:black;">
-    📄 My CV
   </a>
 
 </div>
