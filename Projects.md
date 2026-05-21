@@ -1,14 +1,4 @@
-<table width="100%">
-  <tr>
-    <td align="left">
-      <h2>🚀 Projects</h2>
-    </td>
-    <td align="right">
-      📄 <a href="README.md">My CV</a>
-    </td>
-  </tr>
-</table>
-
+## 🚀 Projects &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 📄 [My CV](README.md)
 
 ## E-COMMERCE CUSTOMER RETENTION STRATEGIES WITH RELIABLE CHURN PREDICTION MACHINE LEARNING MODELS
 
