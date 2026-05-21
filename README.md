@@ -1,3 +1,10 @@
+<div style="display:flex; justify-content:space-between; width:100%; font-weight:bold; font-size:28px;">
+  <h2 style="margin:0;">📄 My CV</h2>
+  <a href="https://aktrikx.github.io/arjun_khatiwada/Projects.html" style="text-decoration:none;">
+    🚀 Projects
+  </a>
+</div>
+
 
 ## Arjun Khatiwada
 
@@ -129,3 +136,4 @@ A highly motivated Business Intelligence Analyst with over 7 years of experience
 ## Projects 🚀
 
 - Check out my detailed projects and contributions: [Projects](Projects.md)
+- [Back to Top](README.md)
