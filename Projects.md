@@ -1,13 +1,7 @@
-<table width="100%">
-  <tr>
-    <td width="50%" align="left">
-      <h2>🚀 Projects</h2>
-    </td>
-    <td width="50%" align="right">
-      <h2><a href="README.md">📄 My CV</a></h2>
-    </td>
-  </tr>
-</table>
+<div style="display:flex; justify-content:space-between; width:100%;">
+  <h2>🚀 Projects</h2>
+  <a href="README.md">📄 My CV</a>
+</div>
 
 ## E-COMMERCE CUSTOMER RETENTION STRATEGIES WITH RELIABLE CHURN PREDICTION MACHINE LEARNING MODELS
 
