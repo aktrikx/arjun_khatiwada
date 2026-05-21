@@ -1,8 +1,7 @@
 
 ## Arjun Khatiwada
 
-**Address:** Dartford, London, UK  
-**Phone:** +447824592417
+**Address:** Dartford, London, UK
 **Email:** [arjunkhatiwadaarjun@gmail.com](mailto:arjunkhatiwadaarjun@gmail.com)  
 **GitHub Portfolio:** [https://github.com/aktrikx](https://github.com/aktrikx)  
 **Medium:** [https://medium.com/@arjunkhatiwadaarjun](https://medium.com/@arjunkhatiwadaarjun)  
