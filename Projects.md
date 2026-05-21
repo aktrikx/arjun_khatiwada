@@ -1,4 +1,17 @@
-## 🚀Projects &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;📄[My CV](README.md)
+<table width="100%">
+<tr>
+<td align="left">
+
+## 🚀 Projects
+
+</td>
+<td align="right">
+
+📄 [My CV](README.md)
+
+</td>
+</tr>
+</table>
 
 
 ## E-COMMERCE CUSTOMER RETENTION STRATEGIES WITH RELIABLE CHURN PREDICTION MACHINE LEARNING MODELS
