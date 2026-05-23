@@ -33,7 +33,7 @@ A highly motivated Business Intelligence Analyst with over 7 years of experience
 - Business Intelligence Tools: Excel, Power BI, Tableau, Looker
 - Programming/Technical Skills: Python, SQL, MongoDB,BigQuery
 - Data Science & Analytics: Data Science, Data Analysis, Data Modeling, Statistical Tests, Storytelling with Data, Machine Learning Models
-- Cloud Platforms Knowledge: Microsoft Azure, AWS, Alibaba Cloud, Google Cloud Platform
+- Cloud Platforms Knowledge: Microsoft Azure, AWS, Alibaba Cloud, Google Cloud Platform, Databricks
 - IDEs/Code Editors: VS Code, PyCharm
 - Tools & DevOps: Jupyter Notebook, Google colab VS Code, ETL, CI/CD
 - Version Control: GitHub
