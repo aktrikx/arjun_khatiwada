@@ -7,3 +7,9 @@
 .page-header .btn {
   display: none !important;
 }
+
+/* Reduce header height / background space */
+.page-header {
+  padding-top: 2rem !important;
+  padding-bottom: 2rem !important;
+}
