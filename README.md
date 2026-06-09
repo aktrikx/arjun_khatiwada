@@ -12,15 +12,11 @@
 
 </div>
 
-## Arjun Khatiwada
+## Business Intelligence Analyst | Data Analyst | Power BI, SQL, Python | E-commerce & Logistics Analytics
 
-**Address:** Dartford, London, UK  
-**Email:** [arjunkhatiwadaarjun@gmail.com](mailto:arjunkhatiwadaarjun@gmail.com)  
-**GitHub Portfolio:** [https://github.com/aktrikx](https://github.com/aktrikx)  
-**Medium:** [https://medium.com/@arjunkhatiwadaarjun](https://medium.com/@arjunkhatiwadaarjun)  
-**LinkedIn:** [www.linkedin.com/in/arjun-khatiwada-201847185](https://www.linkedin.com/in/arjun-khatiwada-201847185)
 <p align="center">
-  <img src="https://github.com/aktrikx.png" width="120" style="border-radius:50%">
+  <img width="300" height="300" alt="arjunkhatiwada" src="https://github.com/user-attachments/assets/758ded5e-8c7b-4700-a1e3-330d318ac2fd" />
+
   
   <h2 align="center">Arjun Khatiwada</h2>
 
@@ -34,6 +30,9 @@
     </a>
   </p>
 </p>
+**Address:** Dartford, London, UK  
+**Email:** [arjunkhatiwadaarjun@gmail.com](mailto:arjunkhatiwadaarjun@gmail.com)  
+**Medium:** [Visit Medium](https://medium.com/@arjunkhatiwadaarjun)  
               
               
 
