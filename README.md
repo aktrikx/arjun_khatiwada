@@ -12,27 +12,16 @@
 
 </div>
 
-## Business Intelligence Analyst | Data Analyst | Power BI, SQL, Python | E-commerce & Logistics Analytics
 
-<p align="center">
-  <img width="300" height="300" alt="arjunkhatiwada" src="https://github.com/user-attachments/assets/758ded5e-8c7b-4700-a1e3-330d318ac2fd" />
-
-  
   <h2 align="center">Arjun Khatiwada</h2>
 
   <p align="center">
-    Business Intelligence Analyst | Data Analyst
+    Business Intelligence Analyst | Data Analyst | Power BI, SQL, Python | E-commerce & Logistics Analytics
   </p>
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/arjun-khatiwada-201847185">
-      Connect on LinkedIn
-    </a>
-  </p>
-</p>
 **Address:** Dartford, London, UK  
 **Email:** [arjunkhatiwadaarjun@gmail.com](mailto:arjunkhatiwadaarjun@gmail.com)  
 **Medium:** [Visit Medium](https://medium.com/@arjunkhatiwadaarjun)  
+**LinkedIn:** [Connect on LinkedIn](href="https://www.linkedin.com/in/arjun-khatiwada-201847185)  
               
               
 
