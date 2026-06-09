@@ -19,15 +19,21 @@
 **GitHub Portfolio:** [https://github.com/aktrikx](https://github.com/aktrikx)  
 **Medium:** [https://medium.com/@arjunkhatiwadaarjun](https://medium.com/@arjunkhatiwadaarjun)  
 **LinkedIn:** [www.linkedin.com/in/arjun-khatiwada-201847185](https://www.linkedin.com/in/arjun-khatiwada-201847185)
-<a href="https://www.linkedin.com/in/arjun-khatiwada-201847185" target="_blank">
-  <img src="https://media.licdn.com/dms/image/v2/D4D03AQH-profile-placeholder/image.png"
-       width="120"
-       style="border-radius:50%">
-  <br>
-  <b>Arjun Khatiwada</b>
-  <br>
-  Connect with me on LinkedIn
-</a>
+<p align="center">
+  <img src="https://github.com/aktrikx.png" width="120" style="border-radius:50%">
+  
+  <h2 align="center">Arjun Khatiwada</h2>
+
+  <p align="center">
+    Business Intelligence Analyst | Data Analyst
+  </p>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/arjun-khatiwada-201847185">
+      Connect on LinkedIn
+    </a>
+  </p>
+</p>
               
               
 
