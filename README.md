@@ -15,7 +15,7 @@
 **Address:** Dartford, London, UK  
 **Email:** [arjunkhatiwadaarjun@gmail.com](mailto:arjunkhatiwadaarjun@gmail.com)  
 **Medium:** [Visit Medium](https://medium.com/@arjunkhatiwadaarjun)  
-**LinkedIn:** [Connect on LinkedIn](href="https://www.linkedin.com/in/arjun-khatiwada-201847185)  
+**LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/arjun-khatiwada-201847185)  
               
               
 
