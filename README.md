@@ -12,12 +12,6 @@
 
 </div>
 
-
-  <h2 align="center">Arjun Khatiwada</h2>
-
-  <p align="center">
-    Business Intelligence Analyst | Data Analyst | Power BI, SQL, Python | E-commerce & Logistics Analytics
-  </p>
 **Address:** Dartford, London, UK  
 **Email:** [arjunkhatiwadaarjun@gmail.com](mailto:arjunkhatiwadaarjun@gmail.com)  
 **Medium:** [Visit Medium](https://medium.com/@arjunkhatiwadaarjun)  
