@@ -19,8 +19,11 @@
 **GitHub Portfolio:** [https://github.com/aktrikx](https://github.com/aktrikx)  
 **Medium:** [https://medium.com/@arjunkhatiwadaarjun](https://medium.com/@arjunkhatiwadaarjun)  
 **LinkedIn:** [www.linkedin.com/in/arjun-khatiwada-201847185](https://www.linkedin.com/in/arjun-khatiwada-201847185)
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<!-- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="arjun-khatiwada-201847185" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/arjun-khatiwada-201847185?trk=profile-badge">Arjun Khatiwada</a></div> -->
+
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="arjun-khatiwada-201847185" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/arjun-khatiwada-201847185?trk=profile-badge">Arjun Khatiwada</a></div>
+              
               
 
 ---
